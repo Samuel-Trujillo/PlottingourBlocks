@@ -12,28 +12,32 @@
 .side-nav {
     height: 300px;
     width: 200px;
-    margin: 20px;
+    margin: 5px;
+    margin-top: 20px;
     background-color: blue;
     display: inline-block;
 }
 .main {
     height: 400px;
-    width: 700px;
-    margin: 20px;
+    width: 775px;
+    margin: 5px;
     background-color: red;
     vertical-align: top;
-    display:inline-block
+    display:inline-block;
+    margin-top: 20px;
 }
 .sub-content {
     height: 180px;
     width: 190px;
     margin: 10px;
+    margin-left: 30px;
     background-color: yellow;
     display:inline-block
 }
 #advertisement {
     height: 120px;
-    width: 620px;
+    width: 660px;
     margin: 10px;
+    margin-left: 30px;
     background-color: purple;
 }
